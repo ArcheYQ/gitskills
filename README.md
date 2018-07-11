@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick and simple.
-changes
+Git is a free software ..
